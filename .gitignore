@@ -1,0 +1,14 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# Generated data files
+mission_data.txt
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
